@@ -13,13 +13,14 @@
 * 完成版提出は 7/19(23:59:59JST) on Google Form
 
 
+
 ## ハッカソン期間中のコミュニケーションツール
 ### ハッシュタグ
 [#plateau](https://twitter.com/search?q=%23plateau)
 
 ### チャットツール(Discord)
 * Re:Earth公式DIscord: https://discord.gg/XJhYkQQDAu
-* チャンネル: [#event_ja](https://discord.com/channels/870497079166910514/872736864237387806) 
+* チャンネル: [#hackathon2023_ja](https://discord.com/channels/870497079166910514/1126394231204872192) 
 * 技術的な質問: [#question_dev_jp](https://discord.com/channels/870497079166910514/872736970860814356)
 
 ## 日程
@@ -35,5 +36,5 @@
 ## 成果発表会詳細
 18:10-18:20 オープニング（青学 古橋）
 18:20-19:10 各個人/チームからの成果発表会
-19:10-19:20 審査会 on Breakout Room(審査員：古橋、内田、岡田)
+19:10-19:20 審査会 on Breakout Room(審査員：内山、古橋、内田、岡田)
 19:20-19:30 表彰式
