@@ -15,19 +15,16 @@
 
 ## ハッカソン期間中のコミュニケーションツール
 ### ハッシュタグ
-#plateau
+[#plateau](https://twitter.com/search?q=%23plateau)
 
 ### チャットツール(Discord)
 * Re:Earth公式DIscord: https://discord.gg/XJhYkQQDAu
-* チャンネル: #event_ja https://discord.com/channels/870497079166910514/872736864237387806
-* 技術的な質問: #question_dev_jp
-
-
+* チャンネル: [#event_ja](https://discord.com/channels/870497079166910514/872736864237387806) 
+* 技術的な質問: [#question_dev_jp](https://discord.com/channels/870497079166910514/872736970860814356)
 
 ## 日程
 * 7/6(木) 18:10-19:00 キックオフ
 * 7/20(木) 18:10-19:30 成果発表会
-
 
 ## キックオフ詳細
 18:10-18:15 オープニング（青学 古橋）
