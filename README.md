@@ -4,7 +4,7 @@
 国土交通省が2020年より公開している3D都市モデル [Project PLATEAU](https://www.mlit.go.jp/plateau/) データを活用した、都市をもっと面白くするコンテンツとして、主観的に自分の想いと組みあせてストーリーテリングするハッカソンです。PLATEAUとして公開されているデータのみならず、自分のオリジナルコンテンツと組み合わせて、あっと驚かせる見たこともないストーリーを自分の手で組み上げてみてください。
 
 ## ルール
-* 個人もしくはチーム(最大3人まで)で参加 → [チーム登録用フォーム](https://forms.gle/hTt5zaxzLRRB7nHw8)。参加申込 7/9(日)23:59:59JST 迄 
+* 個人もしくはチーム(最大3人まで)で参加 → [個人/チーム登録用フォーム](https://forms.gle/hTt5zaxzLRRB7nHw8)。参加申込 7/9(日)23:59:59JST 迄 
 * [PLATEAU VIEW 2.0](https://www.mlit.go.jp/plateau/plateau-view-app/) もしくは [Re:Earth](https://reearth.io/ja/) を用いること
 * ストーリーには最低１点以上の Project PLATEAU コンテンツを利用すること
 * ストーリーには最低１点以上の オリジナルコンテンツも組み合わせること
