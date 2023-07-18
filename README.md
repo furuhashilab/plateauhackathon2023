@@ -10,7 +10,7 @@
 * ストーリーには最低１点以上の オリジナルコンテンツも組み合わせること
 * 第三者の著作物を用いる場合は、原則許諾不要で二次利用可能なライセンスを用いること
 * 成果物の公開は embed機能等を活用して GitHub で公開リポジトリ化（[GitHub Pages](https://docs.github.com/ja/pages/getting-started-with-github-pages/about-github-pages)を使用）すること → ハッカソン期間中にハンズオン動画共有予定
-* **[完成版提出は 7/19(23:59:59JST) on Google Form](https://forms.gle/utwf2xauhG6p3bxg6)**
+* **[完成版提出は 7/19(23:59:59JST)迄 on Google Form](https://forms.gle/utwf2xauhG6p3bxg6)**
 
 
 
