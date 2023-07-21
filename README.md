@@ -45,7 +45,7 @@
  * [チーム「富嶽三十六景 江戸巡り」 on GitHub ](https://akidinosaurs.github.io/samplestorytelling/)
  * [チーム「富樫待ち」 on GitHub ](https://kk-kkch03.github.io/PLATEAUstorytellingHackathon_2023/) ★PLATEAU賞
  * [チーム「Iberis」 on GitHub ](hsyuk.github.io/Iberistory/)
- * [チーム「奈阿（ナア）」 on Re:Earth ](https://cgjfhhbifg.reearth.io) GitHub 公開連絡待ち
+ * [チーム「奈阿（ナア）」 on Re:Earth ](https://cgjfhhbifg.reearth.io) *GitHub 公開連絡待ち*
  * [チーム「Re:Earth Museum」 on GitHub ](https://uc0101ym.github.io/StorytellingEDO/) ★★★最優秀賞
  * [チーム「松浦寿治」 on GitHub ](https://toshiharu-matsuura.github.io/asukastorytelling/)
  * [チーム「ラテグミ」 on GitHub ](https://zawa11.github.io/rategumi_storytelling/) ★古橋賞
