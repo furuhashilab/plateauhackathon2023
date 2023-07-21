@@ -41,10 +41,9 @@
 19:10-19:20 審査会 on Breakout Room(審査員：内山、古橋、内田、岡田)
 19:20-19:30 表彰式
 
-## 5. ハッカソン成果物（全12チーム）
+## 5. ハッカソン成果物（全11チーム）
  * [チーム富嶽三十六景　江戸巡り on GitHub ](https://akidinosaurs.github.io/samplestorytelling/)
  * [チーム富樫待ち on GitHub ](https://kk-kkch03.github.io/PLATEAUstorytellingHackathon_2023/)
- * [チーム奈阿 on Re:Earth ](https://cgjfhhbifg.reearth.io) GitHub 公開連絡待ち
  * [チームIberis on GitHub ](hsyuk.github.io/Iberistory/)
  * [チーム奈阿（ナア） on Re:Earth ](https://cgjfhhbifg.reearth.io) GitHub 公開連絡待ち
  * [チームRe:Earth Museum on GitHub ](https://uc0101ym.github.io/StorytellingEDO/)
