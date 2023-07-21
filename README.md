@@ -42,16 +42,16 @@
 19:20-19:30 表彰式
 
 ## 5. ハッカソン成果物（全12チーム）
- * [チーム富嶽三十六景　江戸巡り](https://akidinosaurs.github.io/samplestorytelling/)
- * [チーム富樫待ち](https://kk-kkch03.github.io/PLATEAUstorytellingHackathon_2023/)
- * [チーム奈阿](https://cgjfhhbifg.reearth.io) GitHub公開連絡待ち
- * [チームIberis](hsyuk.github.io/Iberistory/)
- * [チーム奈阿（ナア）](https://cgjfhhbifg.reearth.io) GitHub公開連絡待ち
- * [チームRe:Earth Museum](https://uc0101ym.github.io/StorytellingEDO/)
- * [チーム松浦寿治](https://toshiharu-matsuura.github.io/asukastorytelling/)
- * [チームラテグミ](https://zawa11.github.io/rategumi_storytelling/)
- * [チームK-POP Lover](https://yosi0530.github.io/Re-Earth-Hackathon/)
- * [チーム鈴木希美](https://nozzlepazzle.github.io/Nozomisreearth/)
- * [チーム原朱里](https://akarihara0213.github.io/Storytelling/)
- * [チームGIS研究会オタク部](https://chanceuxlife.github.io/storytelling_teamGISotaku/)
+ * [チーム富嶽三十六景　江戸巡り on GitHub ](https://akidinosaurs.github.io/samplestorytelling/)
+ * [チーム富樫待ち on GitHub ](https://kk-kkch03.github.io/PLATEAUstorytellingHackathon_2023/)
+ * [チーム奈阿 on Re:Earth ](https://cgjfhhbifg.reearth.io) GitHub 公開連絡待ち
+ * [チームIberis on GitHub ](hsyuk.github.io/Iberistory/)
+ * [チーム奈阿（ナア） on Re:Earth ](https://cgjfhhbifg.reearth.io) GitHub 公開連絡待ち
+ * [チームRe:Earth Museum on GitHub ](https://uc0101ym.github.io/StorytellingEDO/)
+ * [チーム松浦寿治 on GitHub ](https://toshiharu-matsuura.github.io/asukastorytelling/)
+ * [チームラテグミ on GitHub ](https://zawa11.github.io/rategumi_storytelling/)
+ * [チームK-POP Lover on GitHub ](https://yosi0530.github.io/Re-Earth-Hackathon/)
+ * [チーム鈴木希美 on GitHub ](https://nozzlepazzle.github.io/Nozomisreearth/)
+ * [チーム原朱里 on GitHub ](https://akarihara0213.github.io/Storytelling/)
+ * [チームGIS研究会オタク部 on GitHub ](https://chanceuxlife.github.io/storytelling_teamGISotaku/)
 
