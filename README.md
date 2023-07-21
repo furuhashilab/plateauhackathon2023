@@ -43,14 +43,14 @@
 
 ## 5. ハッカソン成果物（全11チーム）
  * [チーム「富嶽三十六景 江戸巡り」 on GitHub ](https://akidinosaurs.github.io/samplestorytelling/)
- * [チーム「富樫待ち」 on GitHub ](https://kk-kkch03.github.io/PLATEAUstorytellingHackathon_2023/)
+ * [チーム「富樫待ち」 on GitHub ](https://kk-kkch03.github.io/PLATEAUstorytellingHackathon_2023/) ★PLATEAU賞
  * [チーム「Iberis」 on GitHub ](hsyuk.github.io/Iberistory/)
  * [チーム「奈阿（ナア）」 on Re:Earth ](https://cgjfhhbifg.reearth.io) GitHub 公開連絡待ち
- * [チーム「Re:Earth Museum」 on GitHub ](https://uc0101ym.github.io/StorytellingEDO/)
+ * [チーム「Re:Earth Museum」 on GitHub ](https://uc0101ym.github.io/StorytellingEDO/) ★★★最優秀賞
  * [チーム「松浦寿治」 on GitHub ](https://toshiharu-matsuura.github.io/asukastorytelling/)
- * [チーム「ラテグミ」 on GitHub ](https://zawa11.github.io/rategumi_storytelling/)
- * [チーム「K-POP Lover」 on GitHub ](https://yosi0530.github.io/Re-Earth-Hackathon/)
+ * [チーム「ラテグミ」 on GitHub ](https://zawa11.github.io/rategumi_storytelling/) ★古橋賞
+ * [チーム「K-POP Lover」 on GitHub ](https://yosi0530.github.io/Re-Earth-Hackathon/) ★岡田賞
  * [チーム「鈴木希美」 on GitHub ](https://nozzlepazzle.github.io/Nozomisreearth/)
  * [チーム「原朱里」 on GitHub ](https://akarihara0213.github.io/Storytelling/)
- * [チーム「GIS研究会オタク部」 on GitHub ](https://chanceuxlife.github.io/storytelling_teamGISotaku/)
+ * [チーム「GIS研究会オタク部」 on GitHub ](https://chanceuxlife.github.io/storytelling_teamGISotaku/) ★コンテンツ賞
 
