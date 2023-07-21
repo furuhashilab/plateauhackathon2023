@@ -41,21 +41,17 @@
 19:10-19:20 審査会 on Breakout Room(審査員：内山、古橋、内田、岡田)
 19:20-19:30 表彰式
 
-## 5. 参加チーム（全16チーム）
- * チーム:奈阿(青山学院大学)
- * チーム:Iberis(フェリス女学院大学)
- * チーム:ラテグミ(青山学院大学)
- * チーム:GIS研究会オタク部(フェリス女学院大学)
- * チーム:米屋美雪(フェリス女学院大学)
- * チーム:冨樫待ち(両大学混成チーム)
- * チーム:鈴木希美(青山学院大学)
- * チーム:佐藤愛妃(青山学院大学)
- * チーム:today(青山学院大学)
- * チーム:ネモト(青山学院大学)
- * チーム:東藤義博(青山学院大学)
- * チーム:松浦寿治(青山学院大学)
- * チーム:西澤浜川(青山学院大学)
- * チーム:kーpop lover(青山学院大学)
- * チーム:FUJITA(青山学院大学)
- * チーム:原朱里(青山学院大学)
+## 5. ハッカソン成果物（全12チーム）
+ * [チーム富嶽三十六景　江戸巡り](https://akidinosaurs.github.io/samplestorytelling/)
+ * [チーム富樫待ち](https://kk-kkch03.github.io/PLATEAUstorytellingHackathon_2023/)
+ * [チーム奈阿](https://cgjfhhbifg.reearth.io) GitHub公開連絡待ち
+ * [チームIberis](hsyuk.github.io/Iberistory/)
+ * [チーム奈阿（ナア）](https://cgjfhhbifg.reearth.io) GitHub公開連絡待ち
+ * [チームRe:Earth Museum](https://uc0101ym.github.io/StorytellingEDO/)
+ * [チーム松浦寿治](https://toshiharu-matsuura.github.io/asukastorytelling/)
+ * [チームラテグミ](https://zawa11.github.io/rategumi_storytelling/)
+ * [チームK-POP Lover](https://yosi0530.github.io/Re-Earth-Hackathon/)
+ * [チーム鈴木希美](https://nozzlepazzle.github.io/Nozomisreearth/)
+ * [チーム原朱里](https://akarihara0213.github.io/Storytelling/)
+ * [チームGIS研究会オタク部](https://chanceuxlife.github.io/storytelling_teamGISotaku/)
 
